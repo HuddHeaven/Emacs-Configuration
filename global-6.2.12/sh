@@ -1,0 +1,2 @@
+#!/bin/sh
+./configure --disable-gtagscscope --prefix=/home_backup/hyli/.emacs.d/global-6.2.12/out

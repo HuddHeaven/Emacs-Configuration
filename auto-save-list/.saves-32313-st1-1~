@@ -1,0 +1,14 @@
+/home/ykli/work/kernel/kernel-2/init/main.c
+/home/ykli/work/kernel/kernel-2/init/#main.c#
+/home/ykli/work/kernel/kernel-2/kernel/printk.c
+/home/ykli/work/kernel/kernel-2/kernel/#printk.c#
+/home/ykli/work/kernel/kernel-2/drivers/tty/serial/serial_core.c
+/home/ykli/work/kernel/kernel-2/drivers/tty/serial/#serial_core.c#
+/home/ykli/work/kernel/kernel-2/drivers/tty/serial/jz_uart.c
+/home/ykli/work/kernel/kernel-2/drivers/tty/serial/#jz_uart.c#
+/home/ykli/work/kernel/kernel-2/drivers/tty/tty_io.c
+/home/ykli/work/kernel/kernel-2/drivers/tty/#tty_io.c#
+/usr/include/c++/4.4/i486-linux-gnu/bits/c++config.h
+/usr/include/c++/4.4/i486-linux-gnu/bits/#c++config.h#
+/home/ykli/work/kernel/kernel-2/TAGS
+/home/ykli/work/kernel/kernel-2/#TAGS#

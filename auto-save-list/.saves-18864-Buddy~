@@ -1,0 +1,12 @@
+/home/hyli/work/linux-mti/drivers/cpufreq/cpufreq.c
+/home/hyli/work/linux-mti/drivers/cpufreq/#cpufreq.c#
+/home/hyli/work/linux-mti/drivers/cpufreq/longrun.c
+/home/hyli/work/linux-mti/drivers/cpufreq/#longrun.c#
+/home/hyli/work/linux-mti/drivers/cpufreq/e_powersaver.c
+/home/hyli/work/linux-mti/drivers/cpufreq/#e_powersaver.c#
+/home/hyli/work/linux-mti/drivers/cpufreq/cpufreq_userspace.c
+/home/hyli/work/linux-mti/drivers/cpufreq/#cpufreq_userspace.c#
+/home/hyli/work/linux-mti/drivers/cpufreq/acpi-cpufreq.c
+/home/hyli/work/linux-mti/drivers/cpufreq/#acpi-cpufreq.c#
+/home/hyli/work/linux-mti/drivers/cpufreq/Makefile
+/home/hyli/work/linux-mti/drivers/cpufreq/#Makefile#
